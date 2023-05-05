@@ -1,1 +1,1 @@
-https://olapolaniecka.github.io/goit-markup-hw-01/
+https://olapolaniecka.github.io/goit-markup-hw-02/

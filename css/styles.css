@@ -113,3 +113,7 @@
 .menu-nav a:hover {
   color: #2196f3;
 }
+
+a {
+  text-decoration: none;
+}

@@ -103,6 +103,10 @@
   line-height: 24px;
 }
 
+.address-footer a:hover {
+  color: #2196f3;
+}
+
 .menu-nav a {
   color: #212121;
   font-size: 14px;
@@ -123,4 +127,22 @@ a {
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
+}
+
+.button-options :hover {
+  color: #2196f3;
+}
+
+.figcaption-name {
+  color: #212121;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 36px;
+}
+
+.figcaption-subname {
+  color: #757575;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
 }

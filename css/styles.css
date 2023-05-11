@@ -39,6 +39,7 @@
   font-size: 16px;
   font-weight: 700;
   line-height: 30px;
+  cursor: pointer;
 }
 
 .lorem-ipsum-header {
@@ -123,15 +124,20 @@ a {
 }
 
 .button-options {
-  color: #212121;
   font-size: 16px;
   font-weight: 500;
   line-height: 26px;
   cursor: pointer;
 }
 
-.button-options :hover {
-  color: #2196f3;
+.button-options:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.button-options:focus {
+  background: #2196f3;
+  color: #ffffff;
 }
 
 .figcaption-name {
@@ -146,4 +152,20 @@ a {
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+menu {
+  list-style-type: none;
+}
+
+.team-background {
+  background: #f5f4fa;
+}
+
+.figure-border {
+  border: 1px solid #eeeeee;
 }
